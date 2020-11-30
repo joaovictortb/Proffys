@@ -3,7 +3,7 @@
   <img width="400" height="100" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
 </p>
 
-<h1 align="center">Sua Plataforma de Estudos Online.<br>
+<h1 align="center">Sua Plataforma de Estudos Online<br>
   Node.js | ReactJS | React Native<h1>
   
   <p align="center">
