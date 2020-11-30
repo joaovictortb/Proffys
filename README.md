@@ -1,10 +1,11 @@
 
 <p align="center">
   <img width="440" height="300" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
-</p>
-<h1 align="center">
+  <h1 align="center">
   Next Level Week 2
 </h1>
+</p>
+
   <h2 align="center">  Node.js | ReactJS | React Native </h2>
   <p align="center">
   <img src="https://github.com/joaovictortb/Proffys/blob/main/assets/design.png">
