@@ -1,8 +1,9 @@
 
 <p align="center">
   <img width="440" height="300" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
-  Sua Plataforma de Estudos Online. 
 </p>
+<h3 align="center">Sua Plataforma de Estudos Online. </h3>
+
 <h1 align="center">
   Next Level Week 2
 </h1>
