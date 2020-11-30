@@ -3,8 +3,8 @@
   <img width="400" height="100" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
 </p>
 
-<h1 align="center">Next Level Week #2 <h4>
-<h2 align="center">Node.js | ReactJS | React Native </h2>
+<h1 align="center">Next Level Week #2<br>
+  Node.js | ReactJS | React Native <h4>
 <h3 align="center">Sua Plataforma de Estudos Online. </h3>
   
   <p align="center">
