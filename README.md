@@ -1,10 +1,10 @@
 
-<p align="center">
-  <img width="440" height="300" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
-</p>
 <h1 align="center">Node.js | ReactJS | React Native </h1>
   <p align="center">
   <img src="https://github.com/joaovictortb/Proffys/blob/main/assets/design.png">
+</p>
+<p align="center">
+  <img width="440" height="300" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
 </p>
 <h3 align="center">Sua Plataforma de Estudos Online. </h3>
 
