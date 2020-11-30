@@ -20,7 +20,7 @@
 
 
 #   🔖  Sobre
-O **Proffys** é uma aplicação Web e Mobile feita para auxiliar na conexão entre os alunos e os professores. Logo, esta aplicação oferece aos professores a possibilidade de registrar suas aulas, podendo adicionar informações como a disciplina, o custo e horário. Assim, quando o aluno/cliente estiver buscando por uma determinada matéria, a interface do Proffys retornará aos alunos a  aulas cadastradas pelos professores.
+O **Proffys** é uma aplicação Web e Mobile feita para auxiliar na conexão entre os alunos e os professores. Logo, esta aplicação oferece aos professores a possibilidade de registrar suas aulas, podendo adicionar informações como a disciplina, o custo e horário. Assim, quando o aluno/cliente estiver buscando por uma determinada matéria, a interface do Proffys retornará aos alunos as aulas cadastradas pelos professores.
 
 Este projeto foi idealizado em homenagem ao **Dia Nacional dos Profissionais da Educação**.
 
