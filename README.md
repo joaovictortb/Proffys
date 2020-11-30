@@ -4,8 +4,7 @@
 </p>
 
 <h1 align="center">Next Level Week #2<br>
-  Node.js | ReactJS | React Native<br>
-  Sua Plataforma de Estudos Online.<h4>
+  Node.js | ReactJS | React Native><h1>
 
   
   <p align="center">
