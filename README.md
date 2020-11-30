@@ -5,7 +5,7 @@
 
 <h1 align="center">Next Level Week #2<br>
   Node.js | ReactJS | React Native <h4>
-<h1 align="center">:calling:Sua Plataforma de Estudos Online. </h1>
+<h1 align="center">Sua Plataforma de Estudos Online. </h1>
   
   <p align="center">
   <img src="https://github.com/joaovictortb/Proffys/blob/main/assets/design.png">
