@@ -7,7 +7,7 @@
 </h1>
   <h2 align="center">  Node.js | ReactJS | React Native </h2>
   <p align="center">
-  <img width="500" height="500" src="https://github.com/joaovictortb/Proffys/blob/main/assets/design.png">
+  <img src="https://github.com/joaovictortb/Proffys/blob/main/assets/design.png">
 </p>
 
 <h3 align="center">Sua Plataforma de Estudos Online. </h3>
