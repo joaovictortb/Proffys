@@ -4,10 +4,10 @@
  
 </p>
 
-<p align="center">
-  ### Next Level Week 2
-  ### Node.js | ReactJS | React Native
-</p>
+<h1 align="center">
+  Next Level Week 2
+  Node.js | ReactJS | React Native
+</h1>
 
 ### Sua Plataforma de Estudos Online.
 
