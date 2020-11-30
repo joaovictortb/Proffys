@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
-  <h1>Sua Plataforma de Estudos Online. </h1>
+  <img width="440" height="300" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
+  Sua Plataforma de Estudos Online. 
 </p>
 <h1 align="center">
   Next Level Week 2
