@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Sua Plataforma de Estudos Online.<br>
-  Node.js | ReactJS | React Native><h1>
+  Node.js | ReactJS | React Native<h1>
   
   <p align="center">
   <img src="https://github.com/joaovictortb/Proffys/blob/main/assets/design.png">
