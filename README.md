@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="400" height="50" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
+  <img width="400" height="100" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
 </p>
 
 <h1 align="center">Next Level Week #2 <h4>
