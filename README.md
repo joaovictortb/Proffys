@@ -38,10 +38,10 @@ Essa aplicação foi realizada durante a **Next Level Week #2**, @Rocketseat.
 
 # 💥 Como Executar
 ### Pré-requisitos
--	É necessário possuir o Node.js instalado no computador.
--	É necessário possuir o Git instalado e configurado no computador.
--	Também, é preciso ter um gerenciador de pacotes seja o NPM ou Yarn.
--	Por fim, é essencial ter o Expo instalado de forma global na máquina.
+-	É necessário possuir o **Node.js** instalado no computador.
+-	É necessário possuir o **Git** instalado e configurado no computador.
+-	Também, é preciso ter um gerenciador de pacotes seja o **NPM** ou **Yarn**.
+-	Por fim, é essencial ter o **Expo** instalado de forma global na máquina.
 
 1.	Faça um clone do repositório:
   	$ git clone https://github.com/joaovictortb/proffy.git
