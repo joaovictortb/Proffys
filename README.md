@@ -2,9 +2,9 @@
 <p align="center">
   <img width="400" height="250" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
 </p>
-<h3 align="center">Sua Plataforma de Estudos Online. </h3>
+<h1 align="center">Sua Plataforma de Estudos Online. </h1>
 
-<h1 align="center">Node.js | ReactJS | React Native </h1>
+<h3 align="center">Node.js | ReactJS | React Native </h3>
   <p align="center">
   <img src="https://github.com/joaovictortb/Proffys/blob/main/assets/design.png">
 </p>
