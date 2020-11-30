@@ -1,15 +1,13 @@
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
+  <h1>Sua Plataforma de Estudos Online. </h1>
 </p>
 <h1 align="center">
   Next Level Week 2
 </h1>
   <h2 align="center">  Node.js | ReactJS | React Native </h2>
 
-
-
-### Sua Plataforma de Estudos Online.
 
 # Tópicos
 - Sobre o Proffys
