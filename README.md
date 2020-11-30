@@ -64,7 +64,7 @@ Essa aplicação foi realizada durante a **Next Level Week #2**, @Rocketseat.
   ### Inicie a aplicação web
   $ yarn start # ou npm start
 
-  # : Mobile (App) :iphone
+  # : Mobile (App) :iphone:
   $ cd mobile
   ### Instalando as dependências do projeto.
   $ yarn # ou npm install
