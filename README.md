@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="400" height="250" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
+  <img width="400" height="150" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
 </p>
 <h1 align="center">Sua Plataforma de Estudos Online. </h1>
 
