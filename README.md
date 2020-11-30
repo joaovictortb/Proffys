@@ -1,11 +1,12 @@
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/joaovictortb/Proffys/blob/main/assets/logo.svg">
+  - Next Level Week 2
+  - Node.js | ReactJS | React Native
 </p>
 
 <p align="center">
-  <li> Next Level Week 2</li>
- <li> ## Node.js | ReactJS | React Native</li>
+  
 </p>
 
 ### Sua Plataforma de Estudos Online.
