@@ -47,7 +47,7 @@ Essa aplicação foi realizada durante a **Next Level Week #2**, @Rocketseat.
   	$ git clone https://github.com/joaovictortb/proffy.git
 2.	Executando a Aplicação: 
 
-  # :wrench: API (Back-end)
+  #  API (Back-end) :wrench:
   $ cd backend
   ### Instalando as dependências do projeto.
   $ yarn # ou npm install
@@ -57,14 +57,14 @@ Essa aplicação foi realizada durante a **Next Level Week #2**, @Rocketseat.
   ### Iniciando a API
   $ yarn dev # ou npm dev
 
-  # :computer: Web (Front-end)
+  #  Web (Front-end) :computer:
   $ cd frontend
   ### Instalando as dependências do projeto.
   $ yarn # ou npm install
   ### Inicie a aplicação web
   $ yarn start # ou npm start
 
-  # :iphone: Mobile (App)
+  # : Mobile (App) :iphone
   $ cd mobile
   ### Instalando as dependências do projeto.
   $ yarn # ou npm install
